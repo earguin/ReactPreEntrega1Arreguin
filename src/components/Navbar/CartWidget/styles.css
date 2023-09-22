@@ -1,0 +1,11 @@
+.cart {
+    position: absolute;
+    right: 20px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.cart-icon {
+    width: 25px;
+    height: 25px;
+}

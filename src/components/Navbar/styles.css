@@ -1,0 +1,23 @@
+.navbar {
+    align-items: center;
+    color: #fff;
+    display: flex;
+    height: 60px;
+    width: 100vw;
+    font-size: 16px;
+}
+
+.logo {
+    float: left;
+    font-weight: bold;
+    padding: 20px;
+    text-transform: capitalize;
+    text-shadow: 0 0 5px #161616;
+    
+}
+
+.logo span {
+    color: #39eef7;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
